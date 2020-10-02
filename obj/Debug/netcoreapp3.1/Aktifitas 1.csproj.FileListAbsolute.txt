@@ -1,0 +1,13 @@
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\bin\Debug\netcoreapp3.1\Aktifitas 1.exe
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\bin\Debug\netcoreapp3.1\Aktifitas 1.deps.json
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\bin\Debug\netcoreapp3.1\Aktifitas 1.runtimeconfig.json
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\bin\Debug\netcoreapp3.1\Aktifitas 1.runtimeconfig.dev.json
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\bin\Debug\netcoreapp3.1\Aktifitas 1.dll
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\bin\Debug\netcoreapp3.1\Aktifitas 1.pdb
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\obj\Debug\netcoreapp3.1\Aktifitas 1.csprojAssemblyReference.cache
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\obj\Debug\netcoreapp3.1\Aktifitas 1.csproj.CoreCompileInputs.cache
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\obj\Debug\netcoreapp3.1\Aktifitas 1.AssemblyInfoInputs.cache
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\obj\Debug\netcoreapp3.1\Aktifitas 1.AssemblyInfo.cs
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\obj\Debug\netcoreapp3.1\Aktifitas 1.dll
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\obj\Debug\netcoreapp3.1\Aktifitas 1.pdb
+D:\Dokumen\AMIKOM\Semester 3\Pemrograman Lanjut\Praktikum\Pertemuan 1\Aktifitas 1\obj\Debug\netcoreapp3.1\Aktifitas 1.genruntimeconfig.cache
